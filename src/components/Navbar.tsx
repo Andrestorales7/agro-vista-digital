@@ -21,9 +21,9 @@ const Navbar = () => {
           <div className="flex items-center">
             <Link to="/" className="flex items-center">
               <img 
-                src="/lovable-uploads/9b2f4d96-0daa-4402-8dc2-f3cb9d047844.png" 
+                src="/lovable-uploads/logo2.png" 
                 alt="CMP AGRO Logo" 
-                className="h-16 mr-2" 
+                className="h-24 mr-10" 
               />
             </Link>
           </div>
