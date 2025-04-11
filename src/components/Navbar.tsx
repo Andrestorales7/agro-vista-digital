@@ -23,7 +23,7 @@ const Navbar = () => {
               <img 
                 src="/lovable-uploads/logo2.png" 
                 alt="CMP AGRO Logo" 
-                className="h-24 mr-10" 
+                className="h-20 mr-5" 
               />
             </Link>
           </div>
